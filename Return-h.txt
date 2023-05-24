@@ -1,0 +1,8 @@
+                Library Management System 
+                   Returned By: h
+    Date: 2023-05-24    Time:14:51:06.524532
+
+S.N.		Bookname		Cost
+1		Harry Potter		$2
+					Fine: $4
+					Total: $6.0
